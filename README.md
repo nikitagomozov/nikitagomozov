@@ -4,6 +4,10 @@
 
 ### Tools I use 🛠
 ![Flutter](https://img.shields.io/badge/Postman-red)
+![Flutter](https://img.shields.io/badge/Software-Testing-blue)
+![Flutter](https://img.shields.io/badge/YouTrack-fuchsia)
+![Flutter](https://img.shields.io/badge/Jira-blue)
+
 
 
 Follow me
