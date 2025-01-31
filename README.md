@@ -4,10 +4,16 @@
 
 ### Tools I use 🛠
 ![Flutter](https://img.shields.io/badge/Postman-red)
-![Flutter](https://img.shields.io/badge/Software-Testing-blue)
+![Flutter](https://img.shields.io/badge/Software.Testing-inactive)
 ![Flutter](https://img.shields.io/badge/YouTrack-fuchsia)
 ![Flutter](https://img.shields.io/badge/Jira-blue)
-
+![Flutter](https://img.shields.io/badge/API-inactive)
+![Flutter](https://img.shields.io/badge/Figma-orange)
+![Flutter](https://img.shields.io/badge/MindMap-yellow)
+![Flutter](https://img.shields.io/badge/Test.Case-inactive)
+![Flutter](https://img.shields.io/badge/Test.plan-inactive)
+![Flutter](https://img.shields.io/badge/Bag.Report-red)
+![Flutter](https://img.shields.io/badge/Test.Design-green)
 
 
 Follow me
