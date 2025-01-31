@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/nikitagomozov/nikitagomozov/blob/main/asessc/circle.png)
 
 About me
 
