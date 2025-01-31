@@ -11,6 +11,6 @@
 ![Android](https://img.shields.io/badge/-Android.Studio-black?style=for-the-badge&logo=Android)
 ![Zoom](https://img.shields.io/badge/-Zoom-yelllowgreen?style=for-the-badge&logo=Zoom)
 ![Charlse](https://img.shields.io/badge/-Charles-blue?style=for-the-badge&logo=Charles)
-
+![Jira](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 
 Follow me
