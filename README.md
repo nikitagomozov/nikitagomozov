@@ -3,17 +3,14 @@
 ### Hello 👋, I'm Nikita and I'm a tester. For a year I studied this profession and continue to do so, while I have no commercial experience, but have the desire and interest 🏌️‍♂️
 
 ### Tools I use 🛠
-![Postman](https://github.com/simple-icons/simple-icons/blob/master/icons/postman.svg)(https://img.shields.io/badge/Postman-red)
-![Flutter](https://img.shields.io/badge/Software.Testing-inactive)
-![Flutter](https://img.shields.io/badge/YouTrack-fuchsia)
-![Flutter](https://img.shields.io/badge/Jira-blue)
-![Flutter](https://img.shields.io/badge/API-inactive)
-![Flutter](https://img.shields.io/badge/Figma-orange)
-![Flutter](https://img.shields.io/badge/MindMap-yellow)
-![Flutter](https://img.shields.io/badge/Test.Case-inactive)
-![Flutter](https://img.shields.io/badge/Test.plan-inactive)
-![Flutter](https://img.shields.io/badge/Bag.Report-red)
-![Flutter](https://img.shields.io/badge/Test.Design-green)
+![Postman](https://img.shields.io/badge/-Postman-white?style=postman&logo=Postman)
+![Jira](https://img.shields.io/badge/-Jira-blue?style=postman&logo=Jira)
+![Flutter](https://img.shields.io/badge/API-red)
+![Jira](https://img.shields.io/badge/-Figma-inactive?style=postman&logo=Figma)
+![Jira](https://img.shields.io/badge/-Miro-yellow?style=postman&logo=Miro)
+![Jira](https://img.shields.io/badge/-Android.Studio-black?style=postman&logo=Android)
+![Jira](https://img.shields.io/badge/-Zoom-yelllowgreen?style=postman&logo=Zoom)
+![Jira](https://img.shields.io/badge/-Charles-blue?style=postman&logo=Charles)
 
 
 Follow me
