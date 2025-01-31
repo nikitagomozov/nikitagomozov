@@ -4,6 +4,6 @@
 ### Привет, я Никита и я тестировщик. В течении года я обучался этой профессии и продолжаю это делать, пока у меня нет коммерческого опыта, но есть желание и интерес 
 
 ### Language and tools
-![Flutter](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Flutter](https://img.shields.io/badge/any_text-you_like-blue)
 
 Follow me
