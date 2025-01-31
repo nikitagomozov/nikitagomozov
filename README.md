@@ -13,4 +13,5 @@
 ![Charlse](https://img.shields.io/badge/-Charles-blue?style=for-the-badge&logo=Charles)
 ![Jira](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/gomozovns)
